@@ -1,0 +1,31 @@
+[
+  {
+    "document_id": "checkout-1042",
+    "document_type": "checkout",
+    "team_id": "team-commerce",
+    "order_id": "ord-1042",
+    "text": "Checkout authorization completed for order ord-1042."
+  },
+  {
+    "document_id": "fulfillment-1042",
+    "document_type": "fulfillment",
+    "team_id": "team-commerce",
+    "order_id": "ord-1042",
+    "text": "Fulfillment packed order ord-1042 and assigned carrier tracking reference TRK-1042."
+  },
+  {
+    "document_id": "receipt-1042",
+    "document_type": "receipt",
+    "team_id": "team-commerce",
+    "order_id": "ord-1042",
+    "text": "Receipt rcpt-1042 was issued after checkout authorization."
+  },
+  {
+    "document_id": "customer-update-1042",
+    "document_type": "customer_update",
+    "team_id": "team-commerce",
+    "order_id": "ord-1042",
+    "text": "The customer received the packed-and-shipped order update."
+  }
+]
+
